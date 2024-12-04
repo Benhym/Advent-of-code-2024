@@ -1,0 +1,4 @@
+﻿  AOC Day4 Problem1.cpp
+C:\Users\tersk\Desktop\Coding\Advent of code\Day4\Problem1\AOC Day4 Problem1\AOC Day4 Problem1.cpp(41,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tersk\Desktop\Coding\Advent of code\Day4\Problem1\AOC Day4 Problem1\AOC Day4 Problem1.cpp(45,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AOC Day4 Problem1.vcxproj -> C:\Users\tersk\Desktop\Coding\Advent of code\Day4\Problem1\AOC Day4 Problem1\x64\Debug\AOC Day4 Problem1.exe
